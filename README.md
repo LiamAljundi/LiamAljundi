@@ -2,10 +2,10 @@
 
 Creative technologist and innovation strategist based in Gothenburg, Sweden. I help
 startups and innovators turn ambitious ideas into successful products by refining the
-user journey and ensuring adoption, from concept to launch.
+user journey and ensuring adoption throughout the process.
 
-My background is in interaction design, cognitive science and user research. I worked at
-Arduino as a user researcher and content manager, and I'm now studying for an MSc in
+My background is in interaction design, cognitive science and entrepreneurship. I worked at
+Arduino as a user experience researcher and educational technology specialist, and I'm now studying for an MSc in
 Entrepreneurship and Business Design at Chalmers University of Technology.
 
 **Portfolio:** [liamaljundi.com](https://www.liamaljundi.com) ·
